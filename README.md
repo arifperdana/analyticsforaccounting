@@ -1,6 +1,8 @@
-Halaman ini adalah repositori untuk file-file yang berkaita dengan buku Data Analytics: Keterampilan Teknis Akuntan dan Auditor di Era Digital.
+## Data Analytics: Keterampilan Teknis Akuntan dan Auditor di Era Digital
 
 <a href="https://books.google.com/books/content/images/frontcover/GEUEEAAAQBAJ?fife=w400-h600" alt="Data Analytics: Keterampilan Teknis Akuntan dan Auditor di Era Digital" height="256px" align="right"></a>
+
+Halaman ini adalah repositori untuk file-file yang berkaita dengan buku [Data Analytics: Keterampilan Teknis Akuntan dan Auditor di Era Digital](https://books.google.com/books/content/images/frontcover/GEUEEAAAQBAJ?fife=w400-h600)
 
 ## Tentang Buku
 Organisasi profesi akuntansi seperti The American Institute of Certified Public Accountants (AICPA) dan The Institute of Singapore Chartered Accountants (ISCA) mensyaratkan analitika data (data analytics) sebagai salah satu kompetensi akuntan di masa kini dan masa depan. Badan akreditasi perguruan tinggi internasional, The Association Advance Collegiate Schools of Business (AACSB) mendorong perguruan tinggi untuk mengintegrasikan analitika data di kurikulum akuntansi. Kantor akuntan publik empat besar (Big-Four accounting firms) menghargai lebih tinggi lulusan-lulusan akuntansi yang memiliki kompetensi di analitika data.
